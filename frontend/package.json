@@ -1,0 +1,11 @@
+{
+  "name": "h_gram",
+  "version": "1.0.0",
+  "description": "a post massanger to share info and a lot of fun",
+  "main": "models/app.js",
+  "scripts": {
+    "test": "serve"
+  },
+  "author": "HadiP",
+  "license": "GPL-3.0"
+}
